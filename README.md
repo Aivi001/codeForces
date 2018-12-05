@@ -1,2 +1,2 @@
 # codeForces
-Some of my submissions in CodeForces 
+Some of my submissions in CodeForces OJ
